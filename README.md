@@ -5,10 +5,10 @@ Software e app
 
 ### OK
 
-- [Thunderbird](https://www.thunderbird.net/) - ok
-- [Raven](https://ravenreader.app/) - Toronto, Ontario, Canada - ok
+- [Thunderbird](https://www.thunderbird.net/)
+- [Raven](https://ravenreader.app/) - Toronto, Ontario, Canada
 
-### Da provare
+### To test
 
 - [Tiny Tiny RSS](https://tt-rss.org/)
 - [RSS Guard](https://github.com/martinrotter/rssguard/)
@@ -16,3 +16,18 @@ Software e app
 ### No more maintained
 
 - [QuiteRSS](https://quiterss.org/)
+
+## Read It Later
+
+### OK
+
+- [Pocket](https://getpocket.com/)
+- [Feedly](https://feedly.com/)
+
+### To test
+
+- [Omnivore](https://omnivore.app/)
+
+### Vari
+
+- [Instapaper](https://www.instapaper.com/)
