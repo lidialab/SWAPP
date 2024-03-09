@@ -38,3 +38,8 @@ Software e app
 ### KO for me
 ...
 
+## Recovery
+
+### To test
+[SW diskinternals](https://www.diskinternals.com/download/)
+
