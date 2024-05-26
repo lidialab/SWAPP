@@ -1,45 +1,43 @@
 # SWAPP
 Software e app
 
-## RSS
+## Aggregatori di feed RSS
 
 ### OK
 
 - [Thunderbird](https://www.thunderbird.net/)
-- [Raven](https://ravenreader.app/) - Toronto, Ontario, Canada
+- [RSS Guard](https://github.com/martinrotter/rssguard/) - Olomouc, Czech Republic - Windows, macOS, Linux - Licenza GPL 3.0
 
-### To test
+### Da testare
 
 - [Tiny Tiny RSS](https://tt-rss.org/)
-- [RSS Guard](https://github.com/martinrotter/rssguard/)
 
-### KO for me
-...
+### Non fa per me
 
-### No more maintained
+- [Raven](https://ravenreader.app/) - Toronto, Ontario, Canada
+
+### Non è più manutenuto
 
 - [QuiteRSS](https://quiterss.org/)
 
-## Read It Later
+## Applicazioni "Read It Later"
 
 ### OK
 
 - [Pocket](https://getpocket.com/)
 - [Feedly](https://feedly.com/)
 
-### To test
+### Da testare
 
 - [Omnivore](https://omnivore.app/)
-
-### Vari
 - [Matter](https://hq.getmatter.com/)
 - [Instapaper](https://www.instapaper.com/)
 
-### KO for me
+### Non fa per me
 ...
 
-## Recovery
+## Applicazioni di recupero dati
 
-### To test
+### Da testare
 [SW diskinternals](https://www.diskinternals.com/download/)
 
